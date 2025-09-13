@@ -4,6 +4,8 @@
     "Alt-d": "lua:snippets.Cancel",
     "Alt-s": "lua:snippets.Insert",
     "Alt-w": "lua:snippets.Next",
+    "Ctrl-Alt-x": "VSplit",
+    "Ctrl-Alt-z": "HSplit",
     "CtrlUnderscore": "lua:comment.comment",
     "F4": "command:jumptag",
     "F5": "lua:wc.wordCount"
