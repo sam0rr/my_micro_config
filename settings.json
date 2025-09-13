@@ -1,0 +1,16 @@
+{
+  "colorscheme": "tokyonight-dark",
+  "filemanager.openonstart": true,
+  "filemanager.openonstart": true,
+  "softwrap": true,
+  "wordwrap": true,
+  "tabstospaces": true,
+  "tabsize": 2,
+  "eofnewline": true,
+  "mkparents": true,
+  "scrollbar": true,
+  "diffgutter": true,
+  "pluginchannels": [
+    "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json"
+  ]
+}
