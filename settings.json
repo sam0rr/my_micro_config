@@ -1,7 +1,6 @@
 {
   "colorscheme": "tokyonight-dark",
-  "filemanager.openonstart": true,
-  "filemanager.openonstart": true,
+  "filemanager.openonstart": false,
   "softwrap": true,
   "wordwrap": true,
   "tabstospaces": true,
